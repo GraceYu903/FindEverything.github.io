@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://geteverything.xyz/sitemap.xml
+Sitemap: https://geteverything.xyz/baidusitemap.xml
